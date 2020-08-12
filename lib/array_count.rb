@@ -3,7 +3,7 @@ def count_strings(array)
   i = 0 
   count = 0 
   while array[i] do
-    if array[i].is_a?(Strings)
+    if array[i].is_a?(String)
       count += 1 
     end
     i += 1
