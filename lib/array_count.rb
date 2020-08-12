@@ -1,6 +1,7 @@
 def count_strings(array)
   # Return the total number of strings in the provided array using the count enumerable
-  count_strings(array)
+  i = 0 
+  while array[]
 end
 
 def count_empty_strings(array)
