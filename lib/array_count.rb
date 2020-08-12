@@ -2,7 +2,7 @@ def count_strings(array)
   # Return the total number of strings in the provided array using the count enumerable
   i = 0 
   count = 0 
-  while i < array.count do
+  while i < array.count do 
     if element.is_a?(String)
       count += 1 
     end
